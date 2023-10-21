@@ -1,5 +1,6 @@
 #                Employee Management System
 
+
 # Bl Start from Here
 
 import pymysql
